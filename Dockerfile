@@ -1,4 +1,4 @@
-FROM arm32v7/node:8.11.4-stretch
+FROM resin/rpi-raspbian:stretch
 LABEL maintainer="Dave Conroy (dave at tiredofit dot ca)"
 
 ### Set Defaults
