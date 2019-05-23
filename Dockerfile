@@ -1,4 +1,4 @@
-FROM tiredofit/nodejs:12-debian-latest
+FROM arm32v7/node:8.11.4-stretch
 LABEL maintainer="Dave Conroy (dave at tiredofit dot ca)"
 
 ### Set Defaults
